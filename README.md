@@ -1,4 +1,5 @@
 AI Multi-Agent Travel Planner
+
 This project is an autonomous travel planning system that uses a team of specialized AI agents to create personalized travel itineraries from a single user prompt. By orchestrating multiple agents, it automates the entire process of research, planning, and review, delivering a comprehensive travel plan in under a minute.
 
 How It Works
@@ -18,3 +19,4 @@ Language Model: Llama3 via Groq API (for high-speed inference)
 User Interface: Streamlit
 
 Programming Language: Python
+
